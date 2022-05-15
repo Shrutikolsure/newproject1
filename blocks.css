@@ -1,0 +1,89 @@
+
+/* This is a partial blocks.css, you need to add more rules
+   to this file to complete the assignment.  Do not add any CSS
+   styling to the original index.htm / start.htm */
+
+
+/* Here is one of many  CSS rules you will need... */
+  
+.parent{
+	background-color: white;
+	border :4px;
+	outline: 3px  solid blue;
+}
+
+.one{
+
+	
+	position: relative;
+	top:32px;
+	left:10px;
+	color:black;
+	border :5px;
+	border-color: pink;
+	outline: 5px  solid orange;
+	padding: 10px;
+	margin: 10px;
+	width:200px;
+	
+	
+}
+.link{
+	background-color: blue;
+	color:white;
+	border :5px;
+	left:550px;
+	position:relative;
+    bottom: 750px;	
+	padding: 10px;
+	margin: 10px;
+	width:120px;
+	height: 10px;
+	
+}
+.two{
+
+	
+	position: relative;
+	border-color:#92a8d1 ;
+	color:black;
+	left:1000px;
+	bottom:180px;
+	border :5px;
+	outline: 5px  solid green;
+	padding: 10px;
+	margin: 10px;
+	width:200px;
+	
+}
+.three{
+
+	
+	color:black;
+	border :55px;
+	border-color: rgb(201, 76, 76);
+	outline: 5px  solid yellow;
+	padding: 10px;
+	position: relative;
+	left:10px;
+	margin: 10px;
+	width:200px;
+	
+}
+.four{
+
+	
+	color:black;
+	position: relative;
+	outline: 5px  solid blue;
+	left:1000px;
+	bottom:190px;
+	border :5px;
+	padding: 10px;
+	margin: 10px;
+	width:200px;
+	
+}
+
+
+
